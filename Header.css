@@ -1,0 +1,17 @@
+
+.MuiToolbar-regular {
+    min-height: 48px !important;
+    height: 48px !important;
+    background-color: #272727 !important;
+}
+
+
+.header-appbar{
+    min-height: 48px !important;
+}
+
+.header-leftText{
+    font-family: 'HoneywellSansWeb-Black';
+    
+}
+

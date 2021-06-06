@@ -1,0 +1,94 @@
+.table-color{
+    backgroundColor:'#272727'!important
+   }
+   
+   .MuiTableContainer-root {
+       width: 100%;
+       overflow-x:unset !important;
+   }
+   
+   
+   .MuiCheckbox-root {
+       color: #707070 !important;
+       
+   }
+   
+   
+   .MuiCheckbox-colorSecondary.Mui-checked {
+       color: #0072C2 !important;
+   }
+   .MuiTableCell-root {
+    padding: 0px !important;
+    font-size: 12px !important;
+    
+       
+   }
+
+   
+   .rtls-table-container{
+    min-height: 350px !important;
+}
+
+   .MuiTableCell-alignRight { 
+       text-align: right;
+       flex-direction: none !important
+   }
+   
+   .MuiTableSortLabel-root{
+       flex-direction: initial  !important;
+   }
+   
+   .MuiTableCell-alignRight{
+   text-align: left !important;
+   width: 125px !important;
+   height: 37px;
+   }
+
+   .MuiTableCell-paddingNone {
+    width: 160px !important;
+   }
+
+.MuiIconButton-label{
+    margin-left: 5px;
+    margin-right: 30px;
+  }
+
+  .rtls-table-cell{
+      width:20%;
+  }
+  .rtls-table-cell > span{
+    border-right: 1px solid #202020;
+    height: 25px;
+    width: 93%;
+  }
+.MuiTableSortLabel-icon {
+    position: absolute;
+    right: 7px;
+  }
+
+  .rtls-table-cell{
+      font-family: HoneywellSansWeb-Extrabold !important;
+  }
+
+  .sort-asc-arrow{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    left: 83px;
+  }
+  .sort-desc-arrow{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    left: 83px;
+  }
+
+  .MuiTableSortLabel-active > .MuiTableSortLabel-iconDirectionDesc{
+    color:#37A3F8 !important
+  }
+
+  .MuiTableSortLabel-active > .MuiTableSortLabel-iconDirectionAsc{
+    color:#37A3F8 !important
+  }
+
+  

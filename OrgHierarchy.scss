@@ -1,0 +1,20 @@
+.orghierarchy-main-container{
+    line-height: 24px;
+    .org-header-container{
+        .org-hierarchymain-txt{
+            font-family: HoneywellSansWeb-Extrabold;
+        }
+        .orghierarchy-textcontainer{
+            font-family: HoneywellSansWeb-Bold;
+        }
+        .org-hierachy-tabs{
+            border-bottom: 1px solid #202020;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+        }
+    }
+    .org-hierarchy-components{
+        padding: 10px;
+    }
+    
+}

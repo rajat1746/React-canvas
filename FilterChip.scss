@@ -1,0 +1,14 @@
+.filter-chip-box{
+    display: inline-block;
+    border: 1px solid balck;
+    border: 1px solid #606060;
+    padding: 1px 5px;
+    border-radius: 4px;
+    margin-right: 5px;
+    .filterchipdelete-btn {
+        margin-left: 16px;
+        font-size: 13px;
+        color: #D0D0D0;
+        cursor: pointer;
+    }
+}

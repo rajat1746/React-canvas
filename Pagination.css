@@ -1,0 +1,90 @@
+.makeStyles-root-9{
+    position: absolute;
+    bottom: 20px;
+    left: 40%;
+    font-family: HoneywellSansWeb-Medium;
+    font-size: 14px;
+    color: #D0D0D0;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+.jss9 {
+    position: absolute;
+    bottom: 20px;
+    left: 40%;
+    font-family: HoneywellSansWeb-Medium;
+    font-size: 14px;
+    color: #D0D0D0;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.items-span{
+position: absolute;
+bottom: 20px;
+font-size: 14px;
+color: #D0D0D0;
+letter-spacing: 0.5px;
+text-align: center;
+line-height: 20px;
+font-family: HoneywellSansWeb-Bold;
+left:16px;
+}
+
+.input-pageNo{
+    position: absolute;
+    bottom: 20px;
+    left: 90%;
+    width:132px;
+    height:40px
+    
+}
+
+.input-label{
+font-family: HoneywellSansWeb-Bold;
+font-size: 14px;
+color: #D0D0D0;
+letter-spacing: 0.5px;
+text-align: center;
+line-height: 20px;
+
+}
+
+.input-boxPagination{
+    background: #505050;
+    box-shadow: inset 1px 1px 1px 0 rgb(0 0 0 / 30%);
+    border-radius: 4px;
+    width: 32px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 12px;
+    padding: 6px;
+    border: none !important;
+ 
+}
+
+.pagination-rtls{
+    position: relative;
+    margin-top: 60px;
+    top: 22px;
+}
+
+
+.pagination-rtls-body{
+position: absolute;
+bottom: 20px;
+left: 40%;
+font-family: HoneywellSansWeb-Medium;
+font-size: 10px;
+color: #D0D0D0;
+letter-spacing: 0;
+line-height: 20px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}

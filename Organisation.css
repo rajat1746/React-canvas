@@ -1,0 +1,219 @@
+.body{
+    background:#303030;
+    display: grid;
+}
+.org-title{
+    font-size: 24px;
+    float: left;
+    font-family: HoneywellSansWeb-Bold;
+    font-size: 24px;
+    color: #F0F0F0;
+    letter-spacing: 0;
+    line-height: 32px;
+    padding-left: 44px;
+    margin-top: 16px;
+}
+.plus{
+  text-align: center;
+    float: left;
+    background: linear-gradient(90deg, #0082DA 0%, #1792E5 100%);
+    box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.30);
+    height: 20px;
+    width: 20px;
+    color: #F0F0F0;
+    border: 1px solid transparent;
+    border-radius: 20%;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 449px;
+
+}
+.plus2{
+  text-align: center;
+  float: left;
+  background: linear-gradient(90deg, #0082DA 0%, #1792E5 100%);
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.30);
+  height: 20px;
+  width: 20px;
+  color: #F0F0F0;
+  border: 1px solid transparent;
+  border-radius: 20%;
+  font-size: 13px;
+  margin-top: 45px;
+  margin-left: 19.5px;
+}
+.add-new{
+    color: #64C3FF;
+    margin-top: 22px;
+    font-size: 14px;
+    display: inline;
+    float:left;
+    margin-left: 8px;
+    
+}
+.Add-Organisation-Modal{
+    padding-top: 16px;
+    display: inline;
+    float: left;
+    background: #272727;
+    width: 501px;
+    height: 279px;
+    margin-left: 54px;
+    padding-right: 41px;
+    
+}
+
+.placeholder{
+    float: left;
+    margin-left:46px;
+    color: #F0F0F0;
+    height: 24px;
+    width: 24px;
+
+}
+.modal-title{
+    font-family: HoneywellSansWeb-Extrabold;
+    float: left;
+    margin-left: 21px;
+    font-size: 16px;
+    color: #F0F0F0;
+    letter-spacing: 2.5px;
+    line-height: 24px;
+}
+.modal-title-side{
+    font-family: HoneywellSansWeb-Extrabold;
+    float: right;
+    margin-right: 40px;
+    font-size: 12px;
+    color: #F0F0F0;
+    letter-spacing: 1.88px;
+    text-align: right;
+    line-height: 24px;
+}
+.text{
+    font-family: HoneywellSansWeb-Bold;
+    margin-top: 16px;
+    margin-left:40px;
+    color: #F0F0F0;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+    text-align: left;
+  }
+  .grid-item-1 {
+    text-align: left;
+    grid-column: 1 / 4;
+    
+  }
+  .grid-item-2 {
+    text-align: left;
+    grid-column: 1 / span 3;
+    
+  }
+  .input-field{
+    width: 419.8px;
+    height: 30px;
+    margin-right: 41px;
+    margin-left:40px;
+    margin-top: 16px;
+    background: #505050;
+    box-shadow: inset 1px 1px 1px 0 rgba(0,0,0,0.30);
+    border-radius: 4px;
+    font-size: 16px;
+    color: #F0F0F0;
+    letter-spacing: 0;
+    line-height: 24px;
+    border: none;
+    border-radius: 2px;
+  }
+  .add-btn{
+    font-family: HoneywellSansWeb-Extrabold;
+    height: 32px;
+    width: 77px;
+    margin-top: 15.7px;
+    margin-right: 40px;
+    float: right;
+    background-image: linear-gradient(90deg, #0082DA 0%, #1792E5 100%);
+    box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.30);
+    border-radius: 4px; 
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.5px;
+    text-align: center;
+    line-height: 20px;
+   
+  }
+  .cancel-btn{
+    font-family: HoneywellSansWeb-Extrabold;
+    color: #4EABF8;
+    height: 32px;
+    width: 77px;
+    margin-top: 15.7px;
+    float: right;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    line-height: 20px;
+  }
+  .center { 
+    position: relative;
+  }
+  
+  .center p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  .com-banner{
+    background: #272727;
+    height: 80px;
+    width: 500px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    margin-left: 54px;
+  }
+  .com-title{
+    font-family: HoneywellSansWeb-Bold;
+    float: left;
+    margin-left: 16px;
+    font-size: 12px;
+    color: #F0F0F0;
+    letter-spacing: 2.5px;
+    line-height: 24px;
+}
+.com-description{
+font-family: HoneywellSansWeb-Medium;
+  font-size: 14px;
+  color: #C0C0C0;
+  margin-left: 64px; 
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
+.placeholder1{
+  float: left;
+  margin-left:30px;
+  width:24px;
+  height:24px;
+  color: #F0F0F0;
+}
+.companyCount{
+    float: right;
+    margin-right:30px;
+    margin-top: 16px;
+    padding-left:10px;
+    padding-right:10px;
+    border: 1px solid #808080;
+    border-radius: 12px;
+    font-family: HoneywellSansWeb-Bold;
+    font-size: 12px;
+    color: #E0E0E0;
+    letter-spacing: 0;
+    line-height: 20px;  
+  }
